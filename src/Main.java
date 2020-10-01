@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Uczę");
         System.out.println("się");
         System.out.print("programowania");
+        System.out.print("commitowania");
     }
 }
